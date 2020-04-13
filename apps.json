@@ -1,7 +1,7 @@
 {
     "name": "aesopstore",
     "identifier": "aesop.aesopstore.true",
-    "sourceURL": "https://github.com/aesoppppp/aesopstore/edit/master/apps.json",
+    "sourceURL": "https://raw.githubusercontent.com/aesoppppp/aesopstore/master/apps.json",
     "apps": [
         {
             "name": "Spotilife",
