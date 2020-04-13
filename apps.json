@@ -8,16 +8,33 @@
             "subtitle": "Spotilife",
             "bundleIdentifier": "com.spotify.life",
             "developerName": "aesoppppp",
-            "version": "8.5.53",
+            "version": "8.5.7",
             "versionDate": "2020-04-12T01:23:19+00:00",
-            "versionDescription": "TESTversion",
-            "downloadURL": "https://drive.google.com/u/0/uc?id=1Z8pldb5KskQQGcCy-6AQFMxV8R50wB7D&export=download",
-            "localizedDescription": "Spotify 8.5.53 with Spotilife 1.0",
+            "versionDescription": "I HATE this version",
+            "downloadURL": "https://drive.google.com/u/0/uc?id=1pnLO0CVoiGroW2xmTmkpyFquC5yVHnHu&export=download",
+            "localizedDescription": "Spotify 8.5.7 with Spotilife 1.0",
             "iconURL": "https:\/\/img.app-valley.vip\/icon\/1609.png",
             "tintColor": "1DB954",
             "size": 50187194,
             "screenshotURLs": [
                 "https:\/\/img.app-valley.vip\/screenshot\/1609.png"
+            ]
+        },
+        {
+            "name": "unc0ver",
+            "subtitle": "unc0ver jailbreak",
+            "bundleIdentifier": "science.xnu.undecimus",
+            "developerName": "pwn20wnd",
+            "version": "4.3.1",
+            "versionDate": "2020-04-12T01:23:28+00:00",
+            "versionDescription": "unc0ver is now at aesopstore",
+            "downloadURL": "https://drive.google.com/u/0/uc?id=1812oOermibxiYHAVC6YoNJeaD0-uZkEC&export=download",
+            "localizedDescription": "iOS 11-13 Jailbreak for A7-A11 (excluding 12.3-12.3.2) and iOS 13- 13.3 Jailbreak for A7-A13",
+            "iconURL": "https:\/\/img.app-valley.vip\/icon\/1590.png",
+            "tintColor": "FFFFFF",
+            "size": 35228028,
+            "screenshotURLs": [
+                "https:\/\/img.app-valley.vip\/screenshot\/1590.png"
             ]
         }
     ],
