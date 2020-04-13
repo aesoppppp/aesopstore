@@ -1,7 +1,7 @@
 {
     "name": "aesopstore",
     "identifier": "aesop.aesopstore.true",
-    "sourceURL": "https:\/\/companion.app-valley.vip\/apps.json",
+    "sourceURL": "https://github.com/aesoppppp/aesopstore/edit/master/apps.json",
     "apps": [
         {
             "name": "Spotilife",
@@ -10,13 +10,18 @@
             "developerName": "aesoppppp",
             "version": "8.5.53",
             "versionDate": "2020-04-12T01:23:19+00:00",
-            "versionDescription": "",
-            "downloadURL": "https:\/\/cdn.app-valley.vip\/companion\/1539.com.lootvalley.loot.ipa?1586654599",
+            "versionDescription": "TESTversion",
+            "downloadURL": "https://drive.google.com/u/0/uc?id=124vdtAvVQ4ISQEf5tVobsRX6-K_6iXWb&export=download",
             "localizedDescription": "Spotify 8.5.53 with Spotilife 1.0",
-            "iconURL": "https:\/\/img.app-valley.vip\/icon\/1555.png",
-            "tintColor": "10b6ff",
+            "iconURL": "https:\/\/img.app-valley.vip\/icon\/1609.png",
+            "tintColor": "1DB954",
             "size": 50187194,
             "screenshotURLs": [
-                "https:\/\/img.app-valley.vip\/screenshot\/1555.png"
+                "https:\/\/img.app-valley.vip\/screenshot\/1609.png"
             ]
         }
+    ],
+    "userInfo": {
+        "patreonAccessToken": "BSLUtJEvetvJNgOsqz0v98-FmBO5JYDfuO90o-reGB8"
+    }
+}
