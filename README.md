@@ -1,2 +1,3 @@
 # aesopstore
-for Altstore Source
+~for Altstore Source~
+Dirty code don't use now.
